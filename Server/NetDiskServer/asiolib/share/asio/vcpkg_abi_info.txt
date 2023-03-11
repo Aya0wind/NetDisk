@@ -1,0 +1,8 @@
+asio-config.cmake 3772e21a6b55def78aa7f93cc0bd17406e11f92c
+CMakeLists.txt c7e51b00e1e613362d910eef681bf7f1a7f12fbd
+portfile.cmake c9f06b9abc7dabd19bdf09205b0e814a2e8cdf65
+CONTROL da9ba0a8fabf6900e01758d77d00f96d464054b8
+cmake 3.14.0
+vcpkg_fixup_cmake_targets 5357add9dbd196ebcd09d63b75a2b3627eef1993
+triplet f51861a20e33a3f2ed220701e7109a88217b5218-2da798e337649ea8e4c8543513478d2f55ee66a6
+features core
